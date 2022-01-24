@@ -3,10 +3,10 @@ This repository contains my solutions to the assignments of the Coursera course 
 
 ## Assignments  ##
 **Module 2**
-*[Solution]
+* [Solution]
 
 **Module 3**
-*[Solution]
+* [Solution]
 
 
 
