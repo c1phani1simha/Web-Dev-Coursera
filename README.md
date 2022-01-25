@@ -3,10 +3,10 @@ This repository contains my solutions to the assignments of the Coursera course 
 
 ## Assignments  ##
 **Module 2**
-* [Solution]
+* [Solution](https://c1phani1simha.github.io/Web-Dev-Coursera/Module-2/)
 
 **Module 3**
-* [Solution]
+* [Solution](https://c1phani1simha.github.io/Web-Dev-Coursera/Module-3/)
 
 
 
