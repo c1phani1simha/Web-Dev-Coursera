@@ -15,5 +15,9 @@ This repository contains my solutions to the assignments of the Coursera course 
 * [Assignment Description](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment4/Assignment-4.md)
 * [Solution](https://c1phani1simha.github.io/Web-Dev-Coursera/Module-4/)
 
+**Module 5**
+* [Assignment Description](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment5/Assignment-5.md)
+* [Solution](https://c1phani1simha.github.io/Web-Dev-Coursera/module5/)
+
 
 
